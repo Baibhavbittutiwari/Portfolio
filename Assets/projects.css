@@ -36,7 +36,7 @@ button.nav-button {
 }
 
 .right img {
-    margin: 0 10px;
+    margin: 0 20px;
     height: 36px;
     filter: grayscale(100%);
 }
@@ -125,7 +125,7 @@ header a:hover {
     }
     
     .right img {
-        margin: 10px;
+        margin: 20px;
         height: 28px;
     }
 
